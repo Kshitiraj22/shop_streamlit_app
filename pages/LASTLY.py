@@ -42,7 +42,7 @@ st.text("")
 st.text("")
 st.text("")
 
-input= st.select_slider("HOW WOULD YOU \":flag-ck:\" :crossed_fingers: RATE THIS: ",
+input= st.select_slider("HOW WOULD YOU \" CK \" :crossed_fingers: RATE THIS: ",
                         options=["amm bekarr 🤮","okaii okaii 😐","bdia 😍","areyy bhut bdia 🤯","bss 😏","bsss 💗"])
 st.write("Result",input)
 
@@ -76,5 +76,5 @@ col1,mid,col2=st.columns((2,10,2))
 with col1:
     st.subheader("©️")
 with col2:
-    st.caption(" Powered by: :flag-kr:")
+    st.caption(" Powered by: KR")
 
